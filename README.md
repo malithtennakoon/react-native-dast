@@ -1,5 +1,9 @@
 # react-native-dast
 
+[![npm version](https://img.shields.io/npm/v/react-native-dast.svg)](https://www.npmjs.com/package/react-native-dast)
+[![npm downloads](https://img.shields.io/npm/dm/react-native-dast.svg)](https://www.npmjs.com/package/react-native-dast)
+[![license](https://img.shields.io/npm/l/react-native-dast.svg)](https://github.com/malithtennakoon/react-native-dast/blob/main/LICENSE)
+
 A React Native library for rendering DatoCMS Structured Text (DAST) with full TypeScript support and customizable styles.
 
 ## Features
